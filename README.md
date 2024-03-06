@@ -67,13 +67,13 @@ Ensure you have the following dependencies installed on your system:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/VictoriiaShtyreva/fs17-Frontend-project
+git clone https://github.com/VictoriiaShtyreva/QuickMart
 ```
 
 2. Change to the project directory:
 
 ```sh
-cd fs17-Frontend-project
+cd QuickMart
 ```
 
 3. Install the dependencies:
